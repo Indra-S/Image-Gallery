@@ -1,4 +1,4 @@
-## ⭐ # Image-Gallery ⭐
+## ⭐ Image-Gallery ⭐
 
 Designed and developed a clean and modern image gallery website.
 
